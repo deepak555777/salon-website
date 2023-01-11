@@ -1,0 +1,26 @@
+.main-container{
+    background: url('../../public/images/barber1.jpg') no-repeat center center fixed;
+    height: 100vh;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    margin: auto;
+    width: 100%;
+    border-radius: 20px;
+}
+@media (max-width: 425px){
+ 
+    .container{
+        width:100%;
+        
+    }
+    
+
+}
+.text-center{
+    margin-top:1rem;
+}

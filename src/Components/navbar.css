@@ -1,0 +1,14 @@
+*{
+    font-family: "Lora", sans-serif;
+}
+.iconImg{
+    width:50 px;
+    height: 50 px;
+}
+.color{
+    color:white;
+}
+.navbar{
+    font-size:1.3rem;
+    font-family: 'arial'
+}
